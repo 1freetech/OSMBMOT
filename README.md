@@ -77,7 +77,7 @@ It is best understood as a practical proof of capability under the BitcoinVersus
 
 A candidate for the OSMBMOT certification should demonstrate strength in most or all of the following:
 
-- Multiple years of Bitcoin mining experience or equivalent high volume independent work
+- Minimum 2100 Hours of Bitcoin mining experience or equivalent high volume independent work
 - Exposure to real mining sites, infrastructure, or machine operations
 - Evidence of troubleshooting, deployment, and maintenance competency
 - Familiarity with firmware environments and machine controls
