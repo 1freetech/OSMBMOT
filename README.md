@@ -120,7 +120,7 @@ The OSMBMOT framework may later expand into additional certification tiers such 
 This certification framework is open source in spirit and may be used as a template for others seeking to document their own applied technical development.
 
 GitHub repository link:
-**[Insert GitHub Link Here]**
+**(https://github.com/1freetech/OSMBMOT/edit/main/README.md)**
 
 ## Official Statement
 
